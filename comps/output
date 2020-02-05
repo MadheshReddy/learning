@@ -1,0 +1,42 @@
+Output of Comparator and Comparable Assignment:-
+
+
+Before Sorting::
+Employee [id=5, name=Mango, salary=20000, age=22]
+Employee [id=2, name=Apple, salary=60000, age=21]
+Employee [id=6, name=Litchi, salary=60000, age=23]
+Employee [id=3, name=Banana, salary=40000, age=22]
+Employee [id=1, name=Kiwi, salary=25000, age=24]
+Employee [id=4, name=Papaya, salary=30000, age=22]
+
+After Default Sorting::(sorts by name)
+Employee [id=2, name=Apple, salary=60000, age=21]
+Employee [id=3, name=Banana, salary=40000, age=22]
+Employee [id=1, name=Kiwi, salary=25000, age=24]
+Employee [id=6, name=Litchi, salary=60000, age=23]
+Employee [id=5, name=Mango, salary=20000, age=22]
+Employee [id=4, name=Papaya, salary=30000, age=22]
+
+After Sorting by Age::
+Employee [id=2, name=Apple, salary=60000, age=21]
+Employee [id=3, name=Banana, salary=40000, age=22]
+Employee [id=5, name=Mango, salary=20000, age=22]
+Employee [id=4, name=Papaya, salary=30000, age=22]
+Employee [id=6, name=Litchi, salary=60000, age=23]
+Employee [id=1, name=Kiwi, salary=25000, age=24]
+
+After Sorting by Salary::
+Employee [id=5, name=Mango, salary=20000, age=22]
+Employee [id=1, name=Kiwi, salary=25000, age=24]
+Employee [id=4, name=Papaya, salary=30000, age=22]
+Employee [id=3, name=Banana, salary=40000, age=22]
+Employee [id=2, name=Apple, salary=60000, age=21]
+Employee [id=6, name=Litchi, salary=60000, age=23]
+
+After Sorting by ID::
+Employee [id=1, name=Kiwi, salary=25000, age=24]
+Employee [id=2, name=Apple, salary=60000, age=21]
+Employee [id=3, name=Banana, salary=40000, age=22]
+Employee [id=4, name=Papaya, salary=30000, age=22]
+Employee [id=5, name=Mango, salary=20000, age=22]
+Employee [id=6, name=Litchi, salary=60000, age=23]
