@@ -1,0 +1,8 @@
+Banking System problem statement:-
+
+Design a Banking Account System using all OOPS Concepts
+Functionality
+Account should have name, accountNo, amount etc
+Should have functionality as getBalance(), withdraw(), deposit(), transferFund()
+Account can be of different types (Saving, Current, Salary, Deposit)
+All different account should have different withdrawal limits, deposit limits, trasferlimits etc.
