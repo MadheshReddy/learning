@@ -1,0 +1,11 @@
+
+1.	Implement sorting for Employee objects below
+a.	Default sorting should be the name
+b.	Provide feasibility for custom sorting on given fields id, salary & age
+	
+	public class Employee{
+	    private int id;
+	    private String name;
+	    private int salary;
+	    private int age;
+	}
